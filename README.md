@@ -8,7 +8,8 @@ This program is the introduction to HTML/CSS and Javascript (Effectively the bas
 To execute, please see these files on github. They can be found under the user BadTactic.
 You can find them directly at: https://github.com/BadTactic, or more specifically you can see the portfolio at badtactic.github.io/portfolio
 
-
+Licensing: All rights reserved.
+Copyright: Matthew Thogerson 2016
 
 
 ######This is a quick and simple Readme that was written in Atom.
