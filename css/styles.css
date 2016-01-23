@@ -1,0 +1,38 @@
+.title {
+  float: center;
+  font-weight: bold;
+}
+
+.overview {
+  background-color: lightgray;
+}
+
+.emphasized {
+  font-style: italic;
+  color: gray;
+}
+
+.container {
+  float: center;
+}
+
+.img-responsive {
+  width: 40%;
+  float: left;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
